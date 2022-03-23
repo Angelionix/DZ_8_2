@@ -1,0 +1,219 @@
+{
+  "organisation_title": "Umbrella",
+  "departments": [
+    {
+      "department": "Отдел 1"
+    },
+    {
+      "department": "Отдел 2"
+    },
+    {
+      "department": "Отдел 3"
+    },
+    {
+      "department": "Отдел 4"
+    }
+  ],
+  "workers": [
+    {
+      "id": 1,
+      "name": "Имя 0",
+      "lastName": "Фамилия 0",
+      "age": 23,
+      "salary": 92679,
+      "projectsCount": 2,
+      "department": "Отдел 1",
+      "depID": 1
+    },
+    {
+      "id": 2,
+      "name": "Имя 1",
+      "lastName": "Фамилия 1",
+      "age": 33,
+      "salary": 79347,
+      "projectsCount": 4,
+      "department": "Отдел 4",
+      "depID": 4
+    },
+    {
+      "id": 3,
+      "name": "Имя 2",
+      "lastName": "Фамилия 2",
+      "age": 42,
+      "salary": 44557,
+      "projectsCount": 4,
+      "department": "Отдел 3",
+      "depID": 3
+    },
+    {
+      "id": 4,
+      "name": "Имя 3",
+      "lastName": "Фамилия 3",
+      "age": 34,
+      "salary": 98346,
+      "projectsCount": 2,
+      "department": "Отдел 4",
+      "depID": 4
+    },
+    {
+      "id": 5,
+      "name": "Имя 4",
+      "lastName": "Фамилия 4",
+      "age": 20,
+      "salary": 46067,
+      "projectsCount": 1,
+      "department": "Отдел 1",
+      "depID": 1
+    },
+    {
+      "id": 6,
+      "name": "Имя 5",
+      "lastName": "Фамилия 5",
+      "age": 49,
+      "salary": 99756,
+      "projectsCount": 1,
+      "department": "Отдел 4",
+      "depID": 4
+    },
+    {
+      "id": 7,
+      "name": "Имя 6",
+      "lastName": "Фамилия 6",
+      "age": 57,
+      "salary": 92592,
+      "projectsCount": 4,
+      "department": "Отдел 2",
+      "depID": 2
+    },
+    {
+      "id": 8,
+      "name": "Имя 7",
+      "lastName": "Фамилия 7",
+      "age": 65,
+      "salary": 95015,
+      "projectsCount": 3,
+      "department": "Отдел 4",
+      "depID": 4
+    },
+    {
+      "id": 9,
+      "name": "Имя 8",
+      "lastName": "Фамилия 8",
+      "age": 76,
+      "salary": 7902,
+      "projectsCount": 4,
+      "department": "Отдел 2",
+      "depID": 2
+    },
+    {
+      "id": 10,
+      "name": "Имя 9",
+      "lastName": "Фамилия 9",
+      "age": 74,
+      "salary": 84677,
+      "projectsCount": 2,
+      "department": "Отдел 4",
+      "depID": 4
+    },
+    {
+      "id": 11,
+      "name": "Имя 10",
+      "lastName": "Фамилия 10",
+      "age": 59,
+      "salary": 41021,
+      "projectsCount": 2,
+      "department": "Отдел 2",
+      "depID": 2
+    },
+    {
+      "id": 12,
+      "name": "Имя 11",
+      "lastName": "Фамилия 11",
+      "age": 42,
+      "salary": 68432,
+      "projectsCount": 3,
+      "department": "Отдел 2",
+      "depID": 2
+    },
+    {
+      "id": 13,
+      "name": "Имя 12",
+      "lastName": "Фамилия 12",
+      "age": 85,
+      "salary": 93818,
+      "projectsCount": 2,
+      "department": "Отдел 4",
+      "depID": 4
+    },
+    {
+      "id": 14,
+      "name": "Имя 13",
+      "lastName": "Фамилия 13",
+      "age": 42,
+      "salary": 58202,
+      "projectsCount": 4,
+      "department": "Отдел 1",
+      "depID": 1
+    },
+    {
+      "id": 15,
+      "name": "Имя 14",
+      "lastName": "Фамилия 14",
+      "age": 71,
+      "salary": 35411,
+      "projectsCount": 3,
+      "department": "Отдел 2",
+      "depID": 2
+    },
+    {
+      "id": 16,
+      "name": "Имя 15",
+      "lastName": "Фамилия 15",
+      "age": 90,
+      "salary": 71210,
+      "projectsCount": 1,
+      "department": "Отдел 2",
+      "depID": 2
+    },
+    {
+      "id": 17,
+      "name": "Имя 16",
+      "lastName": "Фамилия 16",
+      "age": 69,
+      "salary": 86325,
+      "projectsCount": 4,
+      "department": "Отдел 1",
+      "depID": 1
+    },
+    {
+      "id": 18,
+      "name": "Имя 17",
+      "lastName": "Фамилия 17",
+      "age": 35,
+      "salary": 10851,
+      "projectsCount": 1,
+      "department": "Отдел 1",
+      "depID": 1
+    },
+    {
+      "id": 19,
+      "name": "Имя 18",
+      "lastName": "Фамилия 18",
+      "age": 31,
+      "salary": 46657,
+      "projectsCount": 2,
+      "department": "Отдел 1",
+      "depID": 1
+    },
+    {
+      "id": 20,
+      "name": "Имя 19",
+      "lastName": "Фамилия 19",
+      "age": 64,
+      "salary": 85425,
+      "projectsCount": 3,
+      "department": "Отдел 4",
+      "depID": 4
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\bin\Debug\net5.0\OrgInfoSystem_prototype.exe
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\bin\Debug\net5.0\OrgInfoSystem_prototype.deps.json
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\bin\Debug\net5.0\OrgInfoSystem_prototype.runtimeconfig.json
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\bin\Debug\net5.0\OrgInfoSystem_prototype.runtimeconfig.dev.json
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\bin\Debug\net5.0\OrgInfoSystem_prototype.dll
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\bin\Debug\net5.0\ref\OrgInfoSystem_prototype.dll
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\bin\Debug\net5.0\OrgInfoSystem_prototype.pdb
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.csprojAssemblyReference.cache
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.AssemblyInfoInputs.cache
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.AssemblyInfo.cs
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.csproj.CoreCompileInputs.cache
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.dll
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\ref\OrgInfoSystem_prototype.dll
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.pdb
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.genruntimeconfig.cache
+C:\Users\Heaven\Downloads\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\bin\Debug\net5.0\OrgInfoSystem_prototype.exe
+C:\Users\Heaven\Downloads\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\bin\Debug\net5.0\OrgInfoSystem_prototype.deps.json
+C:\Users\Heaven\Downloads\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\bin\Debug\net5.0\OrgInfoSystem_prototype.runtimeconfig.json
+C:\Users\Heaven\Downloads\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\bin\Debug\net5.0\OrgInfoSystem_prototype.runtimeconfig.dev.json
+C:\Users\Heaven\Downloads\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\bin\Debug\net5.0\OrgInfoSystem_prototype.dll
+C:\Users\Heaven\Downloads\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\bin\Debug\net5.0\ref\OrgInfoSystem_prototype.dll
+C:\Users\Heaven\Downloads\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\bin\Debug\net5.0\OrgInfoSystem_prototype.pdb
+C:\Users\Heaven\Downloads\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.csproj.AssemblyReference.cache
+C:\Users\Heaven\Downloads\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heaven\Downloads\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.AssemblyInfoInputs.cache
+C:\Users\Heaven\Downloads\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.AssemblyInfo.cs
+C:\Users\Heaven\Downloads\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.csproj.CoreCompileInputs.cache
+C:\Users\Heaven\Downloads\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.dll
+C:\Users\Heaven\Downloads\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\ref\OrgInfoSystem_prototype.dll
+C:\Users\Heaven\Downloads\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.pdb
+C:\Users\Heaven\Downloads\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.genruntimeconfig.cache
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.csproj.CopyComplete
+C:\Users\Heaven\Downloads\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Heaven\Downloads\C#_HW8\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.csproj.CopyComplete
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\Skillbox_C#_Finished\C#_HW8\Homework_08_Baryshev_v02\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.csprojAssemblyReference.cache
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\Skillbox_C#_Finished\C#_HW8\Homework_08_Baryshev_v02\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\Skillbox_C#_Finished\C#_HW8\Homework_08_Baryshev_v02\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.AssemblyInfoInputs.cache
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\Skillbox_C#_Finished\C#_HW8\Homework_08_Baryshev_v02\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.AssemblyInfo.cs
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\Skillbox_C#_Finished\C#_HW8\Homework_08_Baryshev_v02\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.csproj.CoreCompileInputs.cache
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\Skillbox_C#_Finished\C#_HW8\Homework_08_Baryshev_v02\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.dll
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\Skillbox_C#_Finished\C#_HW8\Homework_08_Baryshev_v02\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\ref\OrgInfoSystem_prototype.dll
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\Skillbox_C#_Finished\C#_HW8\Homework_08_Baryshev_v02\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.pdb
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\Skillbox_C#_Finished\C#_HW8\Homework_08_Baryshev_v02\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\bin\Debug\net5.0\OrgInfoSystem_prototype.exe
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\Skillbox_C#_Finished\C#_HW8\Homework_08_Baryshev_v02\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\bin\Debug\net5.0\OrgInfoSystem_prototype.deps.json
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\Skillbox_C#_Finished\C#_HW8\Homework_08_Baryshev_v02\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\bin\Debug\net5.0\OrgInfoSystem_prototype.runtimeconfig.json
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\Skillbox_C#_Finished\C#_HW8\Homework_08_Baryshev_v02\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\bin\Debug\net5.0\OrgInfoSystem_prototype.runtimeconfig.dev.json
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\Skillbox_C#_Finished\C#_HW8\Homework_08_Baryshev_v02\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\bin\Debug\net5.0\OrgInfoSystem_prototype.dll
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\Skillbox_C#_Finished\C#_HW8\Homework_08_Baryshev_v02\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\bin\Debug\net5.0\ref\OrgInfoSystem_prototype.dll
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\Skillbox_C#_Finished\C#_HW8\Homework_08_Baryshev_v02\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\bin\Debug\net5.0\OrgInfoSystem_prototype.pdb
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\Skillbox_C#_Finished\C#_HW8\Homework_08_Baryshev_v02\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\Skillbox_C#_Finished\C#_HW8\Homework_08_Baryshev_v02\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.csproj.CopyComplete
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\Skillbox_C#_Finished\C#_HW8\Homework_08_Baryshev_v02\Homework_08_Baryshev\DZ_2_old\OrgInfoSystem_prototype\obj\Debug\net5.0\OrgInfoSystem_prototype.genruntimeconfig.cache

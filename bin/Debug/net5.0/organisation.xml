@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Organisation Title="Umbrella">
+  <Department DepartmentTitle="Main">
+    <Worker ProjectsCount="4" Salary="9688" Age="46" Name="Макс" LastName="Фамилия 15" ID="16" />
+  </Department>
+  <Department DepartmentTitle="Отдел 0">
+    <Worker ProjectsCount="2" Salary="48082" Age="20" Name="Виктор" LastName="Фамилия 0" ID="1" />
+    <Worker ProjectsCount="4" Salary="69493" Age="32" Name="Люба" LastName="Фамилия 1" ID="2" />
+    <Worker ProjectsCount="3" Salary="82956" Age="73" Name="Иван" LastName="Фамилия 4" ID="5" />
+    <Worker ProjectsCount="4" Salary="87868" Age="81" Name="Алексей" LastName="Фамилия 8" ID="9" />
+	<Worker ProjectsCount="4" Salary="69493" Age="32" Name="Андрей" LastName="Фамилия 1" ID="2" />
+    <Worker ProjectsCount="3" Salary="82956" Age="73" Name="Иван" LastName="Фамилия 4" ID="5" />
+    <Worker ProjectsCount="4" Salary="87868" Age="81" Name="Михаил" LastName="Фамилия 8" ID="9" />
+	<Worker ProjectsCount="4" Salary="69493" Age="32" Name="Мартин" LastName="Фамилия 1" ID="2" />
+    <Worker ProjectsCount="3" Salary="82956" Age="73" Name="Борис" LastName="Фамилия 4" ID="5" />
+    <Worker ProjectsCount="4" Salary="87868" Age="81" Name="Вероникка" LastName="Фамилия 8" ID="9" />
+  </Department>
+</Organisation>
